@@ -14,12 +14,12 @@ Features:
 - PayPay integration (Stripe will be added soon) 
 - Server Side Pagination
 
-##  [Visit project url](https://fashion-corner.vercel.app/)
+
 
 <p align="center" width="100%">
   <img src="public/readme/image.png" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen1" />
 </p>
 
 <p align="center" width="100%">
-  <img src="public/readme/image1" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen2" />
+  <img src="public/readme/image1.png" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen2" />
 </p>
