@@ -17,9 +17,9 @@ Features:
 ##  [Visit project url](https://fashion-corner.vercel.app/)
 
 <p align="center" width="100%">
-  <img src="public/readme/Fashion-Corner-Fullstack-Next-js-Store.webp" alt="Next.js 14 Fullstack Ecommerce App - Home page light mode" title="screen1" />
+  <img src="public/readme/image.png" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen1" />
 </p>
 
 <p align="center" width="100%">
-  <img src="public/readme/Fashion-Corner-Fullstack-Next-js-Store-dark.webp" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen2" />
+  <img src="public/readme/image1" alt="Next.js 14 Fullstack Ecommerce App - Home page dark mode" title="screen2" />
 </p>
